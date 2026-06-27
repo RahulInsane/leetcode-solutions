@@ -17,6 +17,7 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 | [1962-remove-stones-to-minimize-the-total](https://github.com/RahulInsane/leetcode-solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/RahulInsane/leetcode-solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/RahulInsane/leetcode-solutions/tree/master/2542-maximum-subsequence-score) |
+| [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/RahulInsane/leetcode-solutions/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -54,6 +55,7 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 | [1962-remove-stones-to-minimize-the-total](https://github.com/RahulInsane/leetcode-solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/RahulInsane/leetcode-solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/RahulInsane/leetcode-solutions/tree/master/2542-maximum-subsequence-score) |
+| [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/RahulInsane/leetcode-solutions/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 ## Quickselect
 |  |
 | ------- |
@@ -153,4 +155,5 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 |  |
 | ------- |
 | [2462-total-cost-to-hire-k-workers](https://github.com/RahulInsane/leetcode-solutions/tree/master/2462-total-cost-to-hire-k-workers) |
+| [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/RahulInsane/leetcode-solutions/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 <!---LeetCode Topics End-->
