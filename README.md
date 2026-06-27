@@ -9,6 +9,7 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 | [0215-kth-largest-element-in-an-array](https://github.com/RahulInsane/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/RahulInsane/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/RahulInsane/leetcode-solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0621-task-scheduler](https://github.com/RahulInsane/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/RahulInsane/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/RahulInsane/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/RahulInsane/leetcode-solutions/tree/master/1046-last-stone-weight) |
@@ -30,6 +31,7 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 | [0295-find-median-from-data-stream](https://github.com/RahulInsane/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/RahulInsane/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/RahulInsane/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/RahulInsane/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/RahulInsane/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/RahulInsane/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1834-single-threaded-cpu](https://github.com/RahulInsane/leetcode-solutions/tree/master/1834-single-threaded-cpu) |
@@ -43,6 +45,7 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 | [0347-top-k-frequent-elements](https://github.com/RahulInsane/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/RahulInsane/leetcode-solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0451-sort-characters-by-frequency](https://github.com/RahulInsane/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/RahulInsane/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/RahulInsane/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RahulInsane/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/RahulInsane/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
@@ -62,6 +65,7 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/RahulInsane/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/RahulInsane/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/RahulInsane/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RahulInsane/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Two Pointers
 |  |
@@ -108,6 +112,7 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/RahulInsane/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/RahulInsane/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/RahulInsane/leetcode-solutions/tree/master/0621-task-scheduler) |
 ## Math
 |  |
 | ------- |
@@ -133,6 +138,7 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 ## Greedy
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/RahulInsane/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/RahulInsane/leetcode-solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2542-maximum-subsequence-score](https://github.com/RahulInsane/leetcode-solutions/tree/master/2542-maximum-subsequence-score) |
 ## Linked List
