@@ -6,6 +6,7 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/RahulInsane/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RahulInsane/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/RahulInsane/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/RahulInsane/leetcode-solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -28,6 +29,7 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/RahulInsane/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RahulInsane/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/RahulInsane/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/RahulInsane/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
@@ -66,6 +68,7 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RahulInsane/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/RahulInsane/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/RahulInsane/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/RahulInsane/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/RahulInsane/leetcode-solutions/tree/master/0621-task-scheduler) |
@@ -139,6 +142,7 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RahulInsane/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/RahulInsane/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0451-sort-characters-by-frequency](https://github.com/RahulInsane/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1021-remove-outermost-parentheses](https://github.com/RahulInsane/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Greedy
