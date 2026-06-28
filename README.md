@@ -137,6 +137,7 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/RahulInsane/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [1021-remove-outermost-parentheses](https://github.com/RahulInsane/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Greedy
 |  |
 | ------- |
@@ -156,4 +157,8 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 | ------- |
 | [2462-total-cost-to-hire-k-workers](https://github.com/RahulInsane/leetcode-solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/RahulInsane/leetcode-solutions/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/RahulInsane/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
