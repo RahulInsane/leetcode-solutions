@@ -16,6 +16,7 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 | [0658-find-k-closest-elements](https://github.com/RahulInsane/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0733-flood-fill](https://github.com/RahulInsane/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0973-k-closest-points-to-origin](https://github.com/RahulInsane/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
+| [0994-rotting-oranges](https://github.com/RahulInsane/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/RahulInsane/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1834-single-threaded-cpu](https://github.com/RahulInsane/leetcode-solutions/tree/master/1834-single-threaded-cpu) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/RahulInsane/leetcode-solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
@@ -102,6 +103,7 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 | [0547-number-of-provinces](https://github.com/RahulInsane/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RahulInsane/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/RahulInsane/leetcode-solutions/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/RahulInsane/leetcode-solutions/tree/master/0994-rotting-oranges) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -195,4 +197,5 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 | ------- |
 | [0200-number-of-islands](https://github.com/RahulInsane/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/RahulInsane/leetcode-solutions/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/RahulInsane/leetcode-solutions/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
