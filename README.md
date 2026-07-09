@@ -8,6 +8,7 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 | ------- |
 | [0011-container-with-most-water](https://github.com/RahulInsane/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/RahulInsane/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/RahulInsane/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0130-surrounded-regions](https://github.com/RahulInsane/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RahulInsane/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/RahulInsane/leetcode-solutions/tree/master/0200-number-of-islands) |
@@ -38,6 +39,7 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/RahulInsane/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/RahulInsane/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RahulInsane/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/RahulInsane/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/RahulInsane/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
@@ -85,6 +87,7 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/RahulInsane/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0088-merge-sorted-array](https://github.com/RahulInsane/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/RahulInsane/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RahulInsane/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0295-find-median-from-data-stream](https://github.com/RahulInsane/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
