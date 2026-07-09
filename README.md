@@ -8,6 +8,7 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 | ------- |
 | [0011-container-with-most-water](https://github.com/RahulInsane/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RahulInsane/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/RahulInsane/leetcode-solutions/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/RahulInsane/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/RahulInsane/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0130-surrounded-regions](https://github.com/RahulInsane/leetcode-solutions/tree/master/0130-surrounded-regions) |
@@ -90,6 +91,7 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 | ------- |
 | [0011-container-with-most-water](https://github.com/RahulInsane/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RahulInsane/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/RahulInsane/leetcode-solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/RahulInsane/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/RahulInsane/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RahulInsane/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
