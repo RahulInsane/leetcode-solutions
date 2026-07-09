@@ -25,6 +25,7 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 | [0658-find-k-closest-elements](https://github.com/RahulInsane/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0733-flood-fill](https://github.com/RahulInsane/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0973-k-closest-points-to-origin](https://github.com/RahulInsane/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
+| [0977-squares-of-a-sorted-array](https://github.com/RahulInsane/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/RahulInsane/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/RahulInsane/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/RahulInsane/leetcode-solutions/tree/master/1046-last-stone-weight) |
@@ -54,6 +55,7 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 | [0621-task-scheduler](https://github.com/RahulInsane/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/RahulInsane/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/RahulInsane/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
+| [0977-squares-of-a-sorted-array](https://github.com/RahulInsane/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1834-single-threaded-cpu](https://github.com/RahulInsane/leetcode-solutions/tree/master/1834-single-threaded-cpu) |
 | [2542-maximum-subsequence-score](https://github.com/RahulInsane/leetcode-solutions/tree/master/2542-maximum-subsequence-score) |
 ## Heap (Priority Queue)
@@ -106,6 +108,7 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 | [0344-reverse-string](https://github.com/RahulInsane/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RahulInsane/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/RahulInsane/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
+| [0977-squares-of-a-sorted-array](https://github.com/RahulInsane/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/RahulInsane/leetcode-solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Tree
 |  |
