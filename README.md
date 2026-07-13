@@ -112,6 +112,7 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 | [0283-move-zeroes](https://github.com/RahulInsane/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/RahulInsane/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/RahulInsane/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/RahulInsane/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RahulInsane/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/RahulInsane/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0763-partition-labels](https://github.com/RahulInsane/leetcode-solutions/tree/master/0763-partition-labels) |
@@ -197,6 +198,7 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 | [0049-group-anagrams](https://github.com/RahulInsane/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/RahulInsane/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/RahulInsane/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/RahulInsane/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/RahulInsane/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0763-partition-labels](https://github.com/RahulInsane/leetcode-solutions/tree/master/0763-partition-labels) |
 | [1021-remove-outermost-parentheses](https://github.com/RahulInsane/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -251,4 +253,8 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 | [0733-flood-fill](https://github.com/RahulInsane/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/RahulInsane/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/RahulInsane/leetcode-solutions/tree/master/1020-number-of-enclaves) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/RahulInsane/leetcode-solutions/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
