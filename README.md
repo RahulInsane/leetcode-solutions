@@ -94,6 +94,7 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 | [0003-longest-substring-without-repeating-characters](https://github.com/RahulInsane/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/RahulInsane/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/RahulInsane/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/RahulInsane/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/RahulInsane/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/RahulInsane/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RahulInsane/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -162,6 +163,7 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RahulInsane/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/RahulInsane/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/RahulInsane/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/RahulInsane/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 ## Bucket Sort
@@ -201,6 +203,7 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 | [0125-valid-palindrome](https://github.com/RahulInsane/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/RahulInsane/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/RahulInsane/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0424-longest-repeating-character-replacement](https://github.com/RahulInsane/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/RahulInsane/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0763-partition-labels](https://github.com/RahulInsane/leetcode-solutions/tree/master/0763-partition-labels) |
 | [1021-remove-outermost-parentheses](https://github.com/RahulInsane/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
