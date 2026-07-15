@@ -33,6 +33,7 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 | [1004-max-consecutive-ones-iii](https://github.com/RahulInsane/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/RahulInsane/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/RahulInsane/leetcode-solutions/tree/master/1046-last-stone-weight) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/RahulInsane/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1834-single-threaded-cpu](https://github.com/RahulInsane/leetcode-solutions/tree/master/1834-single-threaded-cpu) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/RahulInsane/leetcode-solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/RahulInsane/leetcode-solutions/tree/master/2462-total-cost-to-hire-k-workers) |
@@ -169,6 +170,7 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 | [0643-maximum-average-subarray-i](https://github.com/RahulInsane/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/RahulInsane/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [1004-max-consecutive-ones-iii](https://github.com/RahulInsane/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/RahulInsane/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -254,6 +256,7 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/RahulInsane/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [1004-max-consecutive-ones-iii](https://github.com/RahulInsane/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/RahulInsane/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Matrix
 |  |
 | ------- |
