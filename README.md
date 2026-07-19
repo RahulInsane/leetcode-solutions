@@ -11,6 +11,7 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 | [0018-4sum](https://github.com/RahulInsane/leetcode-solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RahulInsane/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/RahulInsane/leetcode-solutions/tree/master/0027-remove-element) |
+| [0041-first-missing-positive](https://github.com/RahulInsane/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/RahulInsane/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/RahulInsane/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/RahulInsane/leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -95,6 +96,7 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RahulInsane/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/RahulInsane/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/RahulInsane/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/RahulInsane/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/RahulInsane/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
