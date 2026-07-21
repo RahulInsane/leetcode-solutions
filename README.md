@@ -40,6 +40,7 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 | [1004-max-consecutive-ones-iii](https://github.com/RahulInsane/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/RahulInsane/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/RahulInsane/leetcode-solutions/tree/master/1046-last-stone-weight) |
+| [1260-shift-2d-grid](https://github.com/RahulInsane/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/RahulInsane/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1834-single-threaded-cpu](https://github.com/RahulInsane/leetcode-solutions/tree/master/1834-single-threaded-cpu) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/RahulInsane/leetcode-solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
@@ -255,6 +256,7 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/RahulInsane/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/RahulInsane/leetcode-solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/RahulInsane/leetcode-solutions/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 ## Stack
@@ -288,6 +290,7 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 | [0733-flood-fill](https://github.com/RahulInsane/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/RahulInsane/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/RahulInsane/leetcode-solutions/tree/master/1020-number-of-enclaves) |
+| [1260-shift-2d-grid](https://github.com/RahulInsane/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
