@@ -130,6 +130,7 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/RahulInsane/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/RahulInsane/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/RahulInsane/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0143-reorder-list](https://github.com/RahulInsane/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RahulInsane/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/RahulInsane/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/RahulInsane/leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -253,6 +254,7 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/RahulInsane/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0143-reorder-list](https://github.com/RahulInsane/leetcode-solutions/tree/master/0143-reorder-list) |
 ## Merge Sort
 |  |
 | ------- |
@@ -266,6 +268,7 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/RahulInsane/leetcode-solutions/tree/master/0143-reorder-list) |
 | [1021-remove-outermost-parentheses](https://github.com/RahulInsane/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Union-Find
 |  |
@@ -307,4 +310,8 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/RahulInsane/leetcode-solutions/tree/master/0257-binary-tree-paths) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/RahulInsane/leetcode-solutions/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
