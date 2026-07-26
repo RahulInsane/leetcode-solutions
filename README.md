@@ -224,6 +224,7 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/RahulInsane/leetcode-solutions/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/RahulInsane/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RahulInsane/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
@@ -273,6 +274,7 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/RahulInsane/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/RahulInsane/leetcode-solutions/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/RahulInsane/leetcode-solutions/tree/master/0155-min-stack) |
 | [1021-remove-outermost-parentheses](https://github.com/RahulInsane/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Union-Find
 |  |
