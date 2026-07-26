@@ -29,6 +29,7 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 | [0283-move-zeroes](https://github.com/RahulInsane/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/RahulInsane/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/RahulInsane/leetcode-solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0496-next-greater-element-i](https://github.com/RahulInsane/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/RahulInsane/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/RahulInsane/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/RahulInsane/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
@@ -114,6 +115,7 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 | [0347-top-k-frequent-elements](https://github.com/RahulInsane/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/RahulInsane/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/RahulInsane/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/RahulInsane/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/RahulInsane/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RahulInsane/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0763-partition-labels](https://github.com/RahulInsane/leetcode-solutions/tree/master/0763-partition-labels) |
@@ -275,6 +277,7 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 | [0094-binary-tree-inorder-traversal](https://github.com/RahulInsane/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/RahulInsane/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/RahulInsane/leetcode-solutions/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/RahulInsane/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/RahulInsane/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Union-Find
 |  |
@@ -320,4 +323,8 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/RahulInsane/leetcode-solutions/tree/master/0143-reorder-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/RahulInsane/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
