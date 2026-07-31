@@ -32,6 +32,7 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 | [0455-assign-cookies](https://github.com/RahulInsane/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/RahulInsane/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/RahulInsane/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+| [0542-01-matrix](https://github.com/RahulInsane/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/RahulInsane/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/RahulInsane/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/RahulInsane/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
@@ -175,6 +176,7 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 | ------- |
 | [0130-surrounded-regions](https://github.com/RahulInsane/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/RahulInsane/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/RahulInsane/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/RahulInsane/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RahulInsane/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/RahulInsane/leetcode-solutions/tree/master/0733-flood-fill) |
@@ -313,6 +315,7 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 | ------- |
 | [0130-surrounded-regions](https://github.com/RahulInsane/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/RahulInsane/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/RahulInsane/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/RahulInsane/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/RahulInsane/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/RahulInsane/leetcode-solutions/tree/master/1020-number-of-enclaves) |
@@ -323,6 +326,7 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 | [0053-maximum-subarray](https://github.com/RahulInsane/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RahulInsane/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/RahulInsane/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0542-01-matrix](https://github.com/RahulInsane/leetcode-solutions/tree/master/0542-01-matrix) |
 ## Backtracking
 |  |
 | ------- |
