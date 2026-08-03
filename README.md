@@ -148,6 +148,7 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RahulInsane/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/RahulInsane/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0763-partition-labels](https://github.com/RahulInsane/leetcode-solutions/tree/master/0763-partition-labels) |
+| [0876-middle-of-the-linked-list](https://github.com/RahulInsane/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/RahulInsane/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/RahulInsane/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/RahulInsane/leetcode-solutions/tree/master/2462-total-cost-to-hire-k-workers) |
@@ -269,6 +270,7 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/RahulInsane/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0143-reorder-list](https://github.com/RahulInsane/leetcode-solutions/tree/master/0143-reorder-list) |
+| [0876-middle-of-the-linked-list](https://github.com/RahulInsane/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
