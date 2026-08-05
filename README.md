@@ -12,6 +12,7 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RahulInsane/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/RahulInsane/leetcode-solutions/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/RahulInsane/leetcode-solutions/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/RahulInsane/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/RahulInsane/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/RahulInsane/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/RahulInsane/leetcode-solutions/tree/master/0055-jump-game) |
@@ -261,6 +262,7 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/RahulInsane/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/RahulInsane/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/RahulInsane/leetcode-solutions/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/RahulInsane/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/RahulInsane/leetcode-solutions/tree/master/0621-task-scheduler) |
@@ -329,6 +331,7 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/RahulInsane/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/RahulInsane/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/RahulInsane/leetcode-solutions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RahulInsane/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
