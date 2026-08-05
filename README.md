@@ -256,6 +256,7 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 | [0392-is-subsequence](https://github.com/RahulInsane/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/RahulInsane/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/RahulInsane/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0678-valid-parenthesis-string](https://github.com/RahulInsane/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/RahulInsane/leetcode-solutions/tree/master/0763-partition-labels) |
 | [1021-remove-outermost-parentheses](https://github.com/RahulInsane/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Greedy
@@ -266,6 +267,7 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 | [0055-jump-game](https://github.com/RahulInsane/leetcode-solutions/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/RahulInsane/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/RahulInsane/leetcode-solutions/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/RahulInsane/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/RahulInsane/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0860-lemonade-change](https://github.com/RahulInsane/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/RahulInsane/leetcode-solutions/tree/master/0881-boats-to-save-people) |
@@ -295,6 +297,7 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 | [0155-min-stack](https://github.com/RahulInsane/leetcode-solutions/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/RahulInsane/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/RahulInsane/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/RahulInsane/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/RahulInsane/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/RahulInsane/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Union-Find
@@ -337,6 +340,7 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RahulInsane/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/RahulInsane/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0542-01-matrix](https://github.com/RahulInsane/leetcode-solutions/tree/master/0542-01-matrix) |
+| [0678-valid-parenthesis-string](https://github.com/RahulInsane/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -355,4 +359,8 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/RahulInsane/leetcode-solutions/tree/master/0455-assign-cookies) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/RahulInsane/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
