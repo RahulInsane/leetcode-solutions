@@ -165,6 +165,7 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 | [0257-binary-tree-paths](https://github.com/RahulInsane/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RahulInsane/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/RahulInsane/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/RahulInsane/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RahulInsane/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Depth-First Search
 |  |
@@ -209,6 +210,7 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RahulInsane/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/RahulInsane/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0700-search-in-a-binary-search-tree](https://github.com/RahulInsane/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/RahulInsane/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RahulInsane/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1004-max-consecutive-ones-iii](https://github.com/RahulInsane/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Tree
@@ -221,6 +223,7 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 | [0257-binary-tree-paths](https://github.com/RahulInsane/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RahulInsane/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/RahulInsane/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/RahulInsane/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RahulInsane/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Sliding Window
 |  |
