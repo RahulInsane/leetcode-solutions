@@ -159,6 +159,7 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/RahulInsane/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/RahulInsane/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/RahulInsane/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RahulInsane/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RahulInsane/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -166,6 +167,7 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/RahulInsane/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/RahulInsane/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0130-surrounded-regions](https://github.com/RahulInsane/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/RahulInsane/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/RahulInsane/leetcode-solutions/tree/master/0207-course-schedule) |
@@ -197,6 +199,7 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/RahulInsane/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RahulInsane/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RahulInsane/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/RahulInsane/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
@@ -206,6 +209,7 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/RahulInsane/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/RahulInsane/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/RahulInsane/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RahulInsane/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RahulInsane/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
