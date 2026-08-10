@@ -268,6 +268,7 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 | ------- |
 | [0189-rotate-array](https://github.com/RahulInsane/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0973-k-closest-points-to-origin](https://github.com/RahulInsane/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/RahulInsane/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Geometry
 |  |
 | ------- |
