@@ -121,6 +121,7 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 | [0169-majority-element](https://github.com/RahulInsane/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/RahulInsane/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/RahulInsane/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/RahulInsane/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/RahulInsane/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/RahulInsane/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/RahulInsane/leetcode-solutions/tree/master/0496-next-greater-element-i) |
@@ -259,6 +260,7 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 | ------- |
 | [0169-majority-element](https://github.com/RahulInsane/leetcode-solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/RahulInsane/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/RahulInsane/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/RahulInsane/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/RahulInsane/leetcode-solutions/tree/master/0621-task-scheduler) |
 ## Math
@@ -289,6 +291,7 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 | [0125-valid-palindrome](https://github.com/RahulInsane/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/RahulInsane/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/RahulInsane/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/RahulInsane/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/RahulInsane/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/RahulInsane/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/RahulInsane/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -426,4 +429,8 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RahulInsane/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/RahulInsane/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/RahulInsane/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
