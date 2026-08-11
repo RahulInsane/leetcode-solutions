@@ -9,13 +9,13 @@ public:
         int n=nums.size();
         for(int i=0;i<n;i++){
             
-            if(sum==0) start=i;
+            // if(sum==0) start=i;
             sum+=nums[i];
           
             if(sum>maxsum){
                 maxsum=sum;
-                ans_start=start;
-                ans_end=i;
+                // ans_start=start;
+                // ans_end=i;
             }  
               if(sum<0){
                 sum=0;
