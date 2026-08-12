@@ -438,4 +438,8 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/RahulInsane/leetcode-solutions/tree/master/0169-majority-element) |
+## Database
+|  |
+| ------- |
+| [1148-article-views-i](https://github.com/RahulInsane/leetcode-solutions/tree/master/1148-article-views-i) |
 <!---LeetCode Topics End-->
