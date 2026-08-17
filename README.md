@@ -220,6 +220,7 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/RahulInsane/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/RahulInsane/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/RahulInsane/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0098-validate-binary-search-tree](https://github.com/RahulInsane/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RahulInsane/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RahulInsane/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -270,6 +271,7 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/RahulInsane/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/RahulInsane/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0973-k-closest-points-to-origin](https://github.com/RahulInsane/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/RahulInsane/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -449,4 +451,8 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 | [1148-article-views-i](https://github.com/RahulInsane/leetcode-solutions/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/RahulInsane/leetcode-solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/RahulInsane/leetcode-solutions/tree/master/1683-invalid-tweets) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/RahulInsane/leetcode-solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
