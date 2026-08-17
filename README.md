@@ -49,6 +49,7 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 | [0977-squares-of-a-sorted-array](https://github.com/RahulInsane/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/RahulInsane/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/RahulInsane/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/RahulInsane/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/RahulInsane/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/RahulInsane/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1260-shift-2d-grid](https://github.com/RahulInsane/leetcode-solutions/tree/master/1260-shift-2d-grid) |
@@ -229,6 +230,7 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 | [0701-insert-into-a-binary-search-tree](https://github.com/RahulInsane/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RahulInsane/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1004-max-consecutive-ones-iii](https://github.com/RahulInsane/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/RahulInsane/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Binary Tree
 |  |
 | ------- |
