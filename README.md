@@ -33,6 +33,7 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 | [0283-move-zeroes](https://github.com/RahulInsane/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/RahulInsane/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/RahulInsane/leetcode-solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0410-split-array-largest-sum](https://github.com/RahulInsane/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/RahulInsane/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/RahulInsane/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/RahulInsane/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
@@ -224,6 +225,7 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 | [0069-sqrtx](https://github.com/RahulInsane/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0098-validate-binary-search-tree](https://github.com/RahulInsane/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RahulInsane/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0410-split-array-largest-sum](https://github.com/RahulInsane/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RahulInsane/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/RahulInsane/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0700-search-in-a-binary-search-tree](https://github.com/RahulInsane/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
@@ -313,6 +315,7 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 | [0011-container-with-most-water](https://github.com/RahulInsane/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/RahulInsane/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/RahulInsane/leetcode-solutions/tree/master/0055-jump-game) |
+| [0410-split-array-largest-sum](https://github.com/RahulInsane/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/RahulInsane/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/RahulInsane/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/RahulInsane/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
@@ -370,6 +373,7 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/RahulInsane/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/RahulInsane/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/RahulInsane/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/RahulInsane/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Matrix
@@ -391,6 +395,7 @@ My solutions to LeetCode problems, organized by topic and difficulty.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RahulInsane/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RahulInsane/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/RahulInsane/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/RahulInsane/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/RahulInsane/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/RahulInsane/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 ## Backtracking
